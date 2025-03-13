@@ -47,5 +47,3 @@ Variables in javascript can be declared by using either one of the below 3 keywo
 3.initialization is		 3.initialization is		3.mandatory
 	not mandatory           not mandatory	
 4.can be redeclared		 4.cann't be redeclared		4.cann't be redeclared
-5.TDZ - No			 	 5.TDZ - Yes				5.TDZ - Yes
-6.function/global		 6.block/function/global	6.block/function/global
