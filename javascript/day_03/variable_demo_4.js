@@ -20,5 +20,5 @@ function demo() {
 }
 demo();
 
-var a = 'sachin'; // no error, var allow re-declaration in the same scope
+var a = 'abcd'; // no error, var allow re-declaration in the same scope
 // let b = 'virat';  // error

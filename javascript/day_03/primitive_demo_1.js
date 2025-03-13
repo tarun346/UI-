@@ -1,6 +1,6 @@
 
 console.log(10 == 10); // true
-console.log('Virat' == 'Virat'); // true
+console.log('hello' == 'hello'); // true
 console.log(false == false); // true
 console.log(null == null); // true
 
