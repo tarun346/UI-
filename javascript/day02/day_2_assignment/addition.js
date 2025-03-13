@@ -1,6 +1,6 @@
-let a = 10;
-let b = 20;
-console.alert(`Addition of ${a} & ${b} is ${a + b}`);
+let a = parseInt(prompt("enter 1st number"))
+let b = +prompt("enter 2nd number")
+alert(`Addition of ${a} & ${b} is ${a + b}`);
 
 
 
